@@ -5,6 +5,11 @@ Este repositório apresenta um ecossistema de aprendizado desenvolvido como part
 
 O objetivo central foi utilizar o **NotebookLM** (IA Generativa do Google) para estruturar um framework de conhecimento sobre **Shift-Left Security**, garantindo que a segurança atue como um acelerador estratégico de entregas, otimizando a governança e a proteção de ativos digitais.
 
+## 🧠 O que foi desenvolvido?
+Utilizei o **NotebookLM** como motor de análise para processar os documentos da pasta `doc/` (OWASP, Cert.br e Guia de DevSecOps), criando um ambiente de consulta rápida e insights sobre proteção de infraestrutura.
+
+* 🔗 [Acesse o Notebook de Estudos aqui](https://notebooklm.google.com/notebook/af509538-c850-423a-b5f6-11225b405b18/preview)
+  
 ## 🎯 Objetivos Estratégicos
 * **Curadoria Técnica Sênior:** Seleção de fontes de alta autoridade (Cert.br, OWASP, NIST) para mitigar riscos de desinformação técnica.
 * **Engenharia de Prompt Avançada:** Documentação do processo iterativo de interação com LLMs para extração de inteligência operacional.
@@ -53,12 +58,7 @@ Documento abaixo o processo de refino dos comandos para extrair respostas de ní
 
 ---
 
----
 
-## 🧠 Estudo e Curadoria com IA
-Este projeto utilizou o **Google NotebookLM** para realizar a análise inteligente e o cruzamento de dados entre os frameworks de segurança e as cartilhas técnicas disponíveis na pasta `doc`.
 
-* 🔗 [Aceder ao Notebook de Estudos (Modo Visualização)](https://notebooklm.google.com/notebook/af509538-c850-423a-b5f6-11225b405b18/preview)
-* 
 **Projeto desenvolvido por Kamilla Corrêa**
 *Analista de Infraestrutura | Aluna DIO | 65999365077*
