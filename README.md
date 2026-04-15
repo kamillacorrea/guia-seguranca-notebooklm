@@ -52,5 +52,13 @@ Documento abaixo o processo de refino dos comandos para extrair respostas de ní
 4.  **Comunicação Executiva:** *"Recebi um relatório de vulnerabilidade crítica. Resuma o problema em 3 parágrafos para um Diretor (C-Level) não-técnico, focando no risco financeiro, impacto na LGPD e custo de mitigação vs. inação."*
 
 ---
+
+---
+
+## 🧠 Estudo e Curadoria com IA
+Este projeto utilizou o **Google NotebookLM** para realizar a análise inteligente e o cruzamento de dados entre os frameworks de segurança e as cartilhas técnicas disponíveis na pasta `doc`.
+
+* 🔗 [Aceder ao Notebook de Estudos (Modo Visualização)](https://notebooklm.google.com/notebook/af509538-c850-423a-b5f6-11225b405b18/preview)
+* 
 **Projeto desenvolvido por Kamilla Corrêa**
 *Analista de Infraestrutura | Aluna DIO | 65999365077*
